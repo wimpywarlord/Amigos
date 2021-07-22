@@ -1,17 +1,23 @@
 # Kshitij Dhyani  
 
-![My Banner](/banner_wimpy.jfif)
+![My Banner](/banner.png)
 
 # Wimpy Warlord 👽
 ![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
 
 **I pump iron during the day and smash my keyboard in the night.🐙** 
 
-## My Portfolio Website. 🐕
+## Amigos. 🐕
 
-This is an attempt to explain the very complex being I am through the language of binary. 
+😴 With the 𝐚𝐝𝐯𝐞𝐧𝐭 𝐨𝐟 𝐂𝐨𝐯𝐢𝐝-𝟏𝟗, the universities around the globe have been shutdown.
 
-**Link to the website** : http://wimpywarlord.codes/
+🐍 Therefore 𝐦𝐚𝐤𝐢𝐧𝐠 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 has been 𝐚𝐦𝐨𝐧𝐠𝐬𝐭 𝐭𝐡𝐞 𝐛𝐢𝐠𝐠𝐞𝐬𝐭 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬.
+
+😍 Hence I developed a website, which 𝐫𝐚𝐧𝐝𝐨𝐦𝐥𝐲 𝐩𝐚𝐢𝐫𝐞𝐝 𝐲𝐨𝐮 𝐮𝐩 𝐰𝐢𝐭𝐡 𝐨𝐭𝐡𝐞𝐫 𝐬𝐭𝐮𝐝𝐞𝐧𝐭𝐬 of your university over 𝐚 𝐯𝐢𝐝𝐞𝐨 𝐜𝐚𝐥𝐥.
+
+![My Banner](/website.png)
+
+**Link to the website** : https://amigos-icebreaker.herokuapp.com/
 
 ## Getting Started 🎧
 
